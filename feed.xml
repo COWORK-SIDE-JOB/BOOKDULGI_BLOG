@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEOKMILLIS LIBRARY</title>
+    <link>https://cowork-side-job.github.io/BOOKDULGI_BLOG/</link>
+    <description>읽은 책을 한 권씩 꽂아 두는 곳입니다. 좋았던 문장, 별로였던 이유, 다 읽고 나서 남은 생각을 있는 그대로 적어 둡니다.</description>
+    <language>ko</language>
+    <atom:link href="https://cowork-side-job.github.io/BOOKDULGI_BLOG/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>『아주 작은 습관의 힘』 — 목표 대신 시스템</title>
+      <link>https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/atomic-habits-review</link>
+      <guid isPermaLink="true">https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/atomic-habits-review</guid>
+      <pubDate>Sat, 05 Sep 2026 13:00:00 GMT</pubDate>
+      <description>제임스 클리어의 『아주 작은 습관의 힘』 독후감. 습관 형성의 4단계 법칙을 실제로 한 달 적용해 본 결과와, 이 책이 잘 맞는 사람과 안 맞는 사람에 대한 개인적인 평가입니다.</description>
+    </item>
+    <item>
+      <title>『사피엔스』 — 어떤 책이고, 누가 읽으면 좋은가</title>
+      <link>https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/sapiens-info</link>
+      <guid isPermaLink="true">https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/sapiens-info</guid>
+      <pubDate>Thu, 03 Sep 2026 01:30:00 GMT</pubDate>
+      <description>유발 하라리의 『사피엔스』 도서 정보 정리. 책의 구성(4부 20장), 핵심 주장, 읽기 전에 알아 두면 좋은 점과 어떤 독자에게 맞는지 정리합니다.</description>
+    </item>
+    <item>
+      <title>『데미안』 — 알을 깨고 나오는 일에 대하여</title>
+      <link>https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/demian-review</link>
+      <guid isPermaLink="true">https://cowork-side-job.github.io/BOOKDULGI_BLOG/posts/demian-review</guid>
+      <pubDate>Tue, 01 Sep 2026 12:10:00 GMT</pubDate>
+      <description>헤르만 헤세의 『데미안』을 다시 읽고 남긴 독후감. 싱클레어가 두 세계 사이에서 흔들리는 과정과, 지금의 나에게 이 책이 어떻게 읽혔는지 기록합니다.</description>
+    </item>
+  </channel>
+</rss>
