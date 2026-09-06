@@ -1,4 +1,4 @@
-# SEOKMILLIS LIBRARY robots.txt
+# BOOKDULGI robots.txt
 # 검색 크롤러 전체 허용
 User-agent: *
 Allow: /

@@ -119,6 +119,7 @@
   "src/lib/mdxComponents.tsx": [],
   "src/lib/pages.ts": [],
   "src/lib/posts.ts": [],
+  "src/lib/useLampInteraction.ts": [],
   "src/lib/useReveal.ts": [],
   "src/lib/viewMode.ts": [],
   "src/pages/About.tsx": [],
